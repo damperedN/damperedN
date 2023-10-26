@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @damperedN
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ... New Proyects OSINT
+- 🌱 I’m currently learning ... PHP and Python
 - 📫 I am interested in the security of the internet of things
 I repair toys for everyone, things like drones, computers, etc.
 <!---
